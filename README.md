@@ -1,0 +1,1 @@
+This respository includes all of the models and work I've done for the X-ray Tooling Team at the Wat.AI Design Team as a Technical Core Member. For the overall project, we utilized computer vision, generative AI, and image classification to automate x-ray diagnostic processes for fracture rehabilitation.
